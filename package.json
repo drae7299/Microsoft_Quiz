@@ -1,0 +1,27 @@
+{
+  "name": "microsoft_quiz",
+  "version": "1.0.0",
+  "description": "Battle your friends on Microsoft Knowledge and see who the Champ is!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drae7299/Microsoft_Quiz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drae7299/Microsoft_Quiz/issues"
+  },
+  "homepage": "https://github.com/drae7299/Microsoft_Quiz#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "handlebar": "^1.0.0",
+    "path": "^0.12.7",
+    "sequelize": "^6.6.2"
+  }
+}
