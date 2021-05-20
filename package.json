@@ -19,9 +19,15 @@
   "homepage": "https://github.com/drae7299/Microsoft_Quiz#readme",
   "dependencies": {
     "compression": "^1.7.4",
+    "connect-session-sequelize": "^7.1.1",
+    "controllers": "0.0.2",
     "express": "^4.17.1",
-    "handlebar": "^1.0.0",
+    "express-handlebars": "^5.3.2",
+    "express-session": "^1.17.2",
+    "express-session-sequelize": "^2.3.0",
     "path": "^0.12.7",
-    "sequelize": "^6.6.2"
+    "sequelize": "^6.6.2",
+    "session": "^0.1.0",
+    "start": "^5.1.0"
   }
 }
